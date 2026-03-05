@@ -4,10 +4,10 @@ This package is a Python port of the [SeqNMF MATLAB Toolbox](https://github.com/
 
 Credit for MATLAB toolbox: [Emily Mackevicius, Andrew Bahle, and the Fee Lab](http://web.mit.edu/feelab/).
 
-This Python toolbox was developed by [Jeremy Manning](http://www.context-lab.com/) as a hackathon project during the [2018 MIND Summer School](https://summer-mind.github.io/).
+This Python toolbox was first developed by [Jeremy Manning](http://www.context-lab.com/) as a hackathon project during the [2018 MIND Summer School](https://summer-mind.github.io/), then was optimized for large datasets by Tanner Stevenson while working on his thesis.
 
 ### Description
-SeqNMF uses regularized convolutional non-negative matrix factorization to extract repeated sequential patterns from high-dimensional data. The algorithm can discovery of patterns directly from timeseries data without reference to external markers or labels.
+SeqNMF uses regularized convolutional non-negative matrix factorization to extract repeated sequential patterns from high-dimensional data. The algorithm can discover patterns directly from timeseries data without reference to external markers or labels.
 
 For more information please see:
 - [**Original MATLAB implementation**](https://github.com/FeeLab/seqNMF)

@@ -1,4 +1,5 @@
-from .seqnmf import seqnmf, plot
+from .seqnmf import seqnmf
+from .helpers import plot
 
 from scipy.io import loadmat
 import os
